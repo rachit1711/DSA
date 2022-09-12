@@ -1,0 +1,1 @@
+{"name":"Local: reverse_words_2","url":"e:\\Strings\\reverse_words_2.cpp","tests":[{"id":1643712376788,"input":"my name is khan","output":""},{"id":1643712392165,"input":"hello world","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Strings\\reverse_words_2.cpp","group":"local","local":true}
